@@ -1,0 +1,8 @@
+Video URL:
+https://amrutak33.github.io/player/?list=https://raw.githubusercontent.com/amrutak33/dc7c8e2d73ce6e57/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://amrutak33.github.io/player/?list=https://raw.githubusercontent.com/amrutak33/dc7c8e2d73ce6e57/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Thumbnail URL:
+https://i.ibb.co/GQcsgt8P/Toonworld4all-Scooby-Doo-and-Scrappy-Doo-S02-E26-720p-x264-WEB-DL-Dual-Audio-ESub-thumbnail.jpg
